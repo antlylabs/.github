@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/antly-banner-dark@2x.png">
-  <img src="./assets/antly-banner-light@2x.png" width="100%" alt="Antly: Tiny ant. Big ideas. One block at a time.">
-</picture>
+![Antly: Tiny ant. Big ideas. One block at a time.](./assets/antly-banner-light@2x.png#gh-light-mode-only)
+![Antly: Tiny ant. Big ideas. One block at a time.](./assets/antly-banner-dark@2x.png#gh-dark-mode-only)
 
 <p align="center">
 We build <b>Antly</b>, a friendly block-coding app where kids snap blocks together to make real apps for phones and tablets. No typing, no syntax errors, just ideas becoming things.
